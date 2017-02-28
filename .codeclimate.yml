@@ -1,5 +1,8 @@
 ---
 engines:
+  checks:
+    enabled: true
+    channel: beta
   eslint:
     enabled: true
   fixme:
