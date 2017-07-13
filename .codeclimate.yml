@@ -1,12 +1,5 @@
 ---
 engines:
-  checks:
-    enabled: true
-    channel: beta
-  eslint:
-    enabled: true
-  fixme:
-    enabled: true
   duplication:
     enabled: true
     config:
